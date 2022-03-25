@@ -160,3 +160,31 @@ li a{
   font-family: 'Times New Roman', Times, serif;
   text-align: left;
 }
+.sub-button{
+  padding: 6px;
+    color: darkblue;
+    border-radius: 10px;
+}
+.sub-top{
+  border: 1px solid gray;
+  margin-top: 3px;
+  background-color: #e8edf2;
+}
+.new-ul{
+  padding:20px;
+}
+.new-li{
+  padding:10px;
+  color:black;
+  border:1px solid green;
+  width: 100%;
+  /* background-color: rgb(110, 133, 206); */
+}
+.button-add{
+  padding: 5px;
+    width: 240px;
+    color: white;
+    border-radius: 5px;
+    background-color: #242a83;
+    margin-bottom: 10px;
+}
